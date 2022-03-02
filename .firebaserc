@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "notify-ps-ui",
+    "staging": "notify-ui-2bff5"
+  }
+}

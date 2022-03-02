@@ -1,0 +1,1 @@
+import { EmergencyEvent } from './interfaces';
